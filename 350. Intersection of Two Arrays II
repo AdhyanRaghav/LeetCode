@@ -1,0 +1,24 @@
+import java.util.*;
+class Solution {
+    public static int[] intersect(int[] nums1, int[] nums2) {
+
+        HashMap<Integer,Integer> set=new HashMap<>();
+        List<Integer> result=new ArrayList<>();
+
+        for(int i:nums1){
+            set.put(i,set.getOrDefault(i,0)+1);
+        }
+        for(int i:nums2) {
+            if (set.containsKey(i) && set.get(i)>0) {
+                result.add(i);
+                set.put(i,set.get(i)-1);
+            }
+        }
+        int[]result1=new int[result.size()];
+        int i=0;
+        for(int num:result){
+            result1[i++]=num;
+        }
+        return result1;
+    }
+}
