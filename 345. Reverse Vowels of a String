@@ -1,0 +1,30 @@
+class Solution {
+    public String reverseVowels(String s) {
+
+        String vowel="aeiouAEIOU";
+
+        char[]arr=vowel.toCharArray();
+
+        char[]arr2=s.toCharArray();
+
+        int i=0,j=arr2.length-1;
+
+       while (i<j){
+                if (vowel.indexOf(arr2[i]) == -1 ) {
+                    i++;
+                }else if(vowel.indexOf(arr2[j]) == -1) {
+                    j--;
+                }else{
+
+                    char temp;
+                    temp=arr2[i];
+                    arr2[i] = arr2[j];
+                    arr2[j]=temp;
+                    i++;j--;
+                }
+       }
+        String swappedStr = new String(arr2);
+
+        return swappedStr;
+    }
+}
