@@ -10,5 +10,4 @@ aclass Solution {
         }
         return 1-(minSum);
     }
-}a
-a
+}
