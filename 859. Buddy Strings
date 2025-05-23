@@ -1,12 +1,13 @@
 class Solution {
     public static boolean buddyStrings(String s, String goal) {
-        HashMap<Character,Integer> map=new HashMap<>();
 
         if(s.length()!=goal.length()){
             return false;
         }
 
         if(s.contentEquals(goal)) {
+        HashMap<Character,Integer> map=new HashMap<>();
+
             for (char i : s.toCharArray()) {
                 map.put(i, map.getOrDefault(i, 0) + 1);
             }
