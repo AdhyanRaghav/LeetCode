@@ -40,3 +40,15 @@ GitHub - You're already here
 LinkedIn - AdhyanRaghav
 
 ✅ Consistent small steps lead to big results!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AdhyanRaghav/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AdhyanRaghav/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
