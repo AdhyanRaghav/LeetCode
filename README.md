@@ -48,6 +48,7 @@ LinkedIn - AdhyanRaghav
 | ------- |
 | [0001-two-sum](https://github.com/AdhyanRaghav/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdhyanRaghav/LeetCode/tree/master/0011-container-with-most-water) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,12 @@ LinkedIn - AdhyanRaghav
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdhyanRaghav/LeetCode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
