@@ -49,6 +49,7 @@ LinkedIn - AdhyanRaghav
 | [0001-two-sum](https://github.com/AdhyanRaghav/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdhyanRaghav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AdhyanRaghav/LeetCode/tree/master/0053-maximum-subarray) |
+| [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -83,5 +84,6 @@ LinkedIn - AdhyanRaghav
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
