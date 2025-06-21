@@ -85,6 +85,7 @@ LinkedIn - AdhyanRaghav
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/AdhyanRaghav/LeetCode/tree/master/0326-power-of-three) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/AdhyanRaghav/LeetCode/tree/master/3830-find-closest-person) |
 ## Sorting
@@ -96,4 +97,8 @@ LinkedIn - AdhyanRaghav
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdhyanRaghav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AdhyanRaghav/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
