@@ -53,6 +53,7 @@ LinkedIn - AdhyanRaghav
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdhyanRaghav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AdhyanRaghav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/AdhyanRaghav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
@@ -77,6 +78,7 @@ LinkedIn - AdhyanRaghav
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/AdhyanRaghav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Divide and Conquer
 |  |
