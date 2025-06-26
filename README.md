@@ -53,6 +53,7 @@ LinkedIn - AdhyanRaghav
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdhyanRaghav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AdhyanRaghav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/AdhyanRaghav/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdhyanRaghav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
@@ -70,6 +71,7 @@ LinkedIn - AdhyanRaghav
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdhyanRaghav/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/AdhyanRaghav/LeetCode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
