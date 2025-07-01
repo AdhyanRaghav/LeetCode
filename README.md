@@ -55,6 +55,7 @@ LinkedIn - AdhyanRaghav
 | [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/AdhyanRaghav/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdhyanRaghav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdhyanRaghav/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
