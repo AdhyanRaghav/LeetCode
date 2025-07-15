@@ -58,11 +58,13 @@ LinkedIn - AdhyanRaghav
 | [0643-maximum-average-subarray-i](https://github.com/AdhyanRaghav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdhyanRaghav/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdhyanRaghav/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdhyanRaghav/LeetCode/tree/master/0001-two-sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdhyanRaghav/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ LinkedIn - AdhyanRaghav
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdhyanRaghav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdhyanRaghav/LeetCode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/AdhyanRaghav/LeetCode/tree/master/0344-reverse-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdhyanRaghav/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +104,7 @@ LinkedIn - AdhyanRaghav
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/AdhyanRaghav/LeetCode/tree/master/0414-third-maximum-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/AdhyanRaghav/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3321-type-of-triangle](https://github.com/AdhyanRaghav/LeetCode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
