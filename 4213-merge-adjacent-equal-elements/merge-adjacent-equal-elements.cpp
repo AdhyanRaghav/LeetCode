@@ -65,15 +65,13 @@ public:
                 s.push(nums[i]);
             }
         }
-        
-       
 
         while(!s.empty()){
             long long c=s.top();
             ans.push_back(c);
             s.pop();
         }
-
+        
         reverse(ans.begin(),ans.end());
         
         return ans;
