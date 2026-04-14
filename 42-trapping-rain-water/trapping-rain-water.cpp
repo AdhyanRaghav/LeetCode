@@ -4,25 +4,33 @@ public:
         int n=height.size();
         int totalwater=0;
 
-		vector<int>leftmax(n);
+		int l=0,r=n-1;
+		int leftmax=0,rightmax=0;
 
-		leftmax[0]=height[0];
+		while(l<r){
 
-		for(int i=1;i<n;i++){
-			leftmax[i]=max(leftmax[i-1],height[i]);
-		}
+			if(height[l]<height[r]){
 
-		vector<int>rightmax(n);
-		rightmax[n-1]=height[n-1];
+				if(height[l]>=leftmax){
 
-		for(int i=n-2;i>=0;i--){
-			rightmax[i]=max(rightmax[i+1],height[i]);
-		}
+					leftmax=height[l];	
 
-		for (int i = 0; i < n; i++)
-		{
-			totalwater+=min(leftmax[i],rightmax[i])-height[i];
-		}
+				}else{
+
+					totalwater+=leftmax-height[l];
+				}
+
+				l++;
+			}else{
+
+				if(height[r]>=rightmax){
+					rightmax=height[r];
+				}else{
+					totalwater+=rightmax-height[r];
+				}
+				r--;
+			}
+        }
         return totalwater;
     }
 };
